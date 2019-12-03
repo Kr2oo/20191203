@@ -28,7 +28,7 @@ public class Ejercicio3 {
 			num1 = Integer.parseInt(in.readLine());
 		}
 		
-		//sumamos los numeros enteros anteriores al numero paa comprobar si es guay
+		//sumamos los numeros enteros anteriores al numero para comprobar si es guay
 		int resultado = 0;
 		for (int i=0; i<num1; i++){
 
